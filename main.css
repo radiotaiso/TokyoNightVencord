@@ -31,6 +31,8 @@
   --background-tertiary: #16161e;
   --background-accent: #434461;
   --background-floating: #161620;
+  --modal-background:var(--background-secondary-alt);
+  --modal-footer-background:var(--background-secondary-alt);
   --background-modifier-hover: #212331c0;
   --background-modifier-active: #282a3680;
   --background-modifier-selected: #24263171;
