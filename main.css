@@ -31,8 +31,6 @@
   --background-tertiary: #16161e;
   --background-accent: #434461;
   --background-floating: #161620;
-  --modal-background:var(--background-secondary-alt);
-  --modal-footer-background:var(--background-secondary-alt);
   --background-modifier-hover: #212331c0;
   --background-modifier-active: #282a3680;
   --background-modifier-selected: #24263171;
@@ -994,4 +992,9 @@ button[aria-label="Send a gift"],
   content: "Jump to Message";
   font-size: 16px;
   font-weight: 500;
+}
+
+:root{
+    --modal-background:var(--background-secondary-alt);
+    --modal-footer-background:var(--background-secondary);
 }
