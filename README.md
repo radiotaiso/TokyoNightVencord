@@ -13,7 +13,7 @@ Install Vencord
 sh -c "$(curl -sS https://raw.githubusercontent.com/Vendicated/VencordInstaller/main/install.sh)"
 ```
 
-Go to Vencord > Themes > Online Themes and paste the following line:
+Go to `Vencord > Themes > Online` Themes and paste the following line:
 ```bash
 https://raw.githubusercontent.com/radiotaiso/TokyoNightVencord/master/tokyo-night.theme.css
 ```
