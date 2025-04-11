@@ -50,7 +50,7 @@
 /* Magic spell to set the font */
 html *
 {
-   font-family: 'Agave Nerd Font' !important;
+   font-family: 'Agave Nerd Font', Helvetica !important;
 }
 
 /* ==== Discord Variables ==== */
